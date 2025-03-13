@@ -23,5 +23,5 @@ print("3 * 4 =", multiply(3, 4))
 # print("Hello,", name)
 
 # Step 7: List processing
-# numbers = [1, 2, 3, 4, 5]
-# print("Sum of list:", sum(numbers))
+numbers = [1, 2, 3, 4, 5]
+print("Sum of list:", sum(numbers))
